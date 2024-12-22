@@ -37,6 +37,6 @@
 <h2 align="center">📊 My Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oustery&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=oustery&theme=dark&show_icons=true&hide_border=true&count_private=true" height="200" alt="activity-graph graph"  />
   <br/>
 </div>
