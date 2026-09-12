@@ -18,35 +18,6 @@
   <!-- ✏️ Update this paragraph when your focus changes — a specific sentence beats a generic one -->
 </p>
 
-<h2 align="center">🚀 Featured project</h2>
-
-<p align="center">
-  <a href="https://github.com/oustery/har-capture">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=oustery&repo=har-capture&hide_border=true&bg_color=00000000&title_color=3bf7b0&icon_color=3bf7b0&text_color=c9d1d9" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=oustery&repo=har-capture&hide_border=true&bg_color=00000000&title_color=0e7a52&icon_color=0e7a52&text_color=24292f" alt="har-capture — Tampermonkey userscript that records XHR/fetch traffic and exports it as a standard .har file" width="400" />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <strong>⏺ HAR Network Capture</strong> — records XHR/fetch requests on any page
-  and exports them as a standard <strong>HAR 1.2</strong> file, right from the browser.<br/>
-  Built with <strong>JavaScript</strong> for Tampermonkey, works on desktop and mobile. Licensed under MIT.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Tampermonkey-00485B?style=flat-square&logo=tampermonkey&logoColor=white" alt="Tampermonkey" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/HAR_1.2-3178C6?style=flat-square" alt="HAR 1.2 export" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/MIT_License-2ea44f?style=flat-square" alt="MIT License" />
-</p>
-
-<p align="center"><sub>If har-capture saves you some debugging time, a ⭐ on the repo would make my day.</sub></p>
-
 <h2 align="center">🛠️ Skills</h2>
 
 <div align="center">
@@ -58,14 +29,10 @@
   <img src="https://skillicons.dev/icons?i=nodejs,dotnet,postgres,mysql&perline=4" alt="Node.js, .NET, PostgreSQL, MySQL" />
 </div>
 
-<h2 align="center">📊 GitHub stats</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=oustery&show_icons=true&hide_border=true&hide_rank=true&count_private=true&bg_color=00000000&title_color=3bf7b0&icon_color=3bf7b0&text_color=c9d1d9" />
-    <img src="https://github-readme-stats.vercel.app/api?username=oustery&show_icons=true&hide_border=true&hide_rank=true&count_private=true&bg_color=00000000&title_color=0e7a52&icon_color=0e7a52&text_color=24292f" alt="Oustery's GitHub stats: total stars, commits, pull requests and issues" width="400" />
-  </picture>
-</p>
+<!-- 📊 GitHub stats: removed — the shared github-readme-stats instance is rate-limited and often fails to render.
+     To bring stats back reliably, deploy your own free instance:
+     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel
+     then paste here: <img src="https://ВАШ-ПРОЕКТ.vercel.app/api?username=oustery&show_icons=true&hide_border=true" /> -->
 
 <h2 align="center">📫 Reach me</h2>
 
