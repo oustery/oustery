@@ -57,7 +57,7 @@
   <img width="8" />
   <img src="https://img.shields.io/badge/Location-Gomel%2C%20Belarus-2ea44f?style=flat-square" alt="Gomel, Belarus" />
   <img width="8" />
-  <a href="mailto:oustery@example.com">
-    <img src="https://img.shields.io/badge/Email-oustery@example.com-c5362e?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:dima.jesus70@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dima.jesus70@gmail.com-c5362e?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
