@@ -11,11 +11,10 @@
 
 <p align="center">
   Student developer from Gomel, Belarus.<br/>
-  I like building small but <strong>finished</strong> tools that solve real problems —<br/>
+  I build small but <strong>finished</strong> tools that solve real problems —<br/>
   the latest one is <a href="https://github.com/oustery/har-capture">har-capture</a>, a Tampermonkey userscript
   for capturing and exporting network traffic.<br/>
   Main stack: <strong>Python, C#/.NET and JavaScript</strong>. Currently going deeper into backend development.
-  <!-- ✏️ Update this paragraph when your focus changes — a specific sentence beats a generic one -->
 </p>
 
 <h2 align="center">🛠️ Skills</h2>
@@ -42,8 +41,8 @@
   </a>
   <img width="8" />
   <img src="https://img.shields.io/badge/Location-Gomel%2C%20Belarus-2ea44f?style=flat-square" alt="Gomel, Belarus" />
-  <!-- ✏️ Have an email / Telegram / LinkedIn? Uncomment and fill in — one contact you actually check is enough:
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-you%40example.com-c5362e?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://t.me/username"><img src="https://img.shields.io/badge/Telegram-%40username-2ba3d6?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  -->
+  <img width="8" />
+  <a href="mailto:oustery@example.com">
+    <img src="https://img.shields.io/badge/Email-oustery@example.com-c5362e?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
