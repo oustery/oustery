@@ -11,27 +11,42 @@
 
 <p align="center">
   Student developer from Gomel, Belarus.<br/>
-  I build small but <strong>finished</strong> tools that solve real problems —<br/>
-  the latest one is <a href="https://github.com/oustery/har-capture">har-capture</a>, a Tampermonkey userscript
+  I build small but <strong>finished</strong> tools that solve real problems.<br/>
+  The latest one is <a href="https://github.com/oustery/har-capture">har-capture</a>, a Tampermonkey userscript
   for capturing and exporting network traffic.<br/>
-  Main stack: <strong>Python, C#/.NET and JavaScript</strong>. Currently going deeper into backend development.
+  Main stack: <strong>Python</strong>, <strong>C#/.NET</strong> and <strong>JavaScript</strong>.
+  Right now I'm going deeper into backend development.
 </p>
 
 <h2 align="center">🛠️ Skills</h2>
 
 <div align="center">
-  <p><strong>Languages</strong></p>
-  <img src="https://skillicons.dev/icons?i=py,cs,js&perline=3" alt="Python, C#, JavaScript" />
-  <p><strong>Frontend</strong></p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&perline=4" alt="HTML5, CSS3, Tailwind CSS, Bootstrap" />
-  <p><strong>Backend &amp; Data</strong></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,postgres,mysql&perline=4" alt="Node.js, .NET, PostgreSQL, MySQL" />
+  <table>
+    <tr>
+      <td><b>Languages</b><br/>
+        <img src="https://skillicons.dev/icons?i=py,cs,js&perline=3" alt="Python, C#, JavaScript" />
+      </td>
+      <td><b>Frontend</b><br/>
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&perline=4" alt="HTML5, CSS3, Tailwind CSS, Bootstrap" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Backend &amp; Data</b><br/>
+        <img src="https://skillicons.dev/icons?i=nodejs,dotnet,postgres,mysql&perline=4" alt="Node.js, .NET, PostgreSQL, MySQL" />
+      </td>
+      <td><b>Tools</b><br/>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&perline=4" alt="Git, GitHub, VS Code, Docker" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- 📊 GitHub stats: removed — the shared github-readme-stats instance is rate-limited and often fails to render.
-     To bring stats back reliably, deploy your own free instance:
-     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel
-     then paste here: <img src="https://ВАШ-ПРОЕКТ.vercel.app/api?username=oustery&show_icons=true&hide_border=true" /> -->
+<h2 align="center">📊 Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oustery&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oustery&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+</p>
 
 <h2 align="center">📫 Reach me</h2>
 
