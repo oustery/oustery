@@ -1,63 +1,60 @@
-<p align="center">
-  <!-- Typing SVG: https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1500&color=3BF7B0&center=true&vCenter=true&width=430&height=50&lines=Hi%2C+I'm+Oustery+%F0%9F%91%8B;Student+developer+from+Belarus;Python+%C2%B7+C%23+%2F+.NET+%C2%B7+JavaScript" alt="Hi, I'm Oustery — student developer from Belarus" />
-  </a>
-</p>
+<div align="center">
+
+# Hi, I'm Oustery 👋
+
+### Student developer · Backend learner · Open-source builder
+
+[![GitHub](https://img.shields.io/badge/GitHub-oustery-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oustery)
+[![Email](https://img.shields.io/badge/Email-dima.jesus70%40gmail.com-c5362e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dima.jesus70@gmail.com)
+[![Location](https://img.shields.io/badge/Gomel%2C%20Belarus-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/?api=1&query=Gomel%2C%20Belarus)
+
+</div>
 
 ---
 
-<h2 align="center">👋 About me</h2>
+## 👋 About me
 
-<p align="center">
-  Student developer from Gomel, Belarus.<br/>
-  I build small but <strong>finished</strong> tools that solve real problems.<br/>
-  The latest one is <a href="https://github.com/oustery/har-capture">har-capture</a>, a Tampermonkey userscript
-  for capturing and exporting network traffic.<br/>
-  Main stack: <strong>Python</strong>, <strong>C#/.NET</strong> and <strong>JavaScript</strong>.
-  Right now I'm going deeper into backend development.
-</p>
+I'm a student developer from Gomel, Belarus. I build small, finished tools that solve real problems and enjoy turning rough ideas into usable software.
 
-<h2 align="center">🛠️ Skills</h2>
+- 🔭 Currently exploring **backend development** and Android tooling
+- 🧰 Main stack: **Python · C#/.NET · JavaScript · Kotlin**
+- 🌐 Interested in web tooling, automation and developer experience
+- 📦 Building: [**GitYou**](https://github.com/oustery/GitYou), a native Android GitHub client
+- 📦 Also working on: [**PocketForge**](https://github.com/oustery/pocketforge), an open-source Android toolkit
+
+## 🛠️ Tech stack
 
 <div align="center">
-  <table>
-    <tr>
-      <td><b>Languages</b><br/>
-        <img src="https://skillicons.dev/icons?i=py,cs,js&perline=3" alt="Python, C#, JavaScript" />
-      </td>
-      <td><b>Frontend</b><br/>
-        <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&perline=4" alt="HTML5, CSS3, Tailwind CSS, Bootstrap" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Backend &amp; Data</b><br/>
-        <img src="https://skillicons.dev/icons?i=nodejs,dotnet,postgres,mysql&perline=4" alt="Node.js, .NET, PostgreSQL, MySQL" />
-      </td>
-      <td><b>Tools</b><br/>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&perline=4" alt="Git, GitHub, VS Code, Docker" />
-      </td>
-    </tr>
-  </table>
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | ![Python](https://skillicons.dev/icons?i=py&theme=light) ![C#](https://skillicons.dev/icons?i=cs&theme=light) ![JavaScript](https://skillicons.dev/icons?i=js&theme=light) ![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=light) |
+| **Frontend** | ![HTML](https://skillicons.dev/icons?i=html&theme=light) ![CSS](https://skillicons.dev/icons?i=css&theme=light) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=light) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=light) |
+| **Backend & data** | ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light) ![.NET](https://skillicons.dev/icons?i=dotnet&theme=light) ![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=light) ![MySQL](https://skillicons.dev/icons?i=mysql&theme=light) |
+| **Tools** | ![Git](https://skillicons.dev/icons?i=git&theme=light) ![GitHub](https://skillicons.dev/icons?i=github&theme=light) ![VS Code](https://skillicons.dev/icons?i=vscode&theme=light) ![Docker](https://skillicons.dev/icons?i=docker&theme=light) |
+
 </div>
 
-<h2 align="center">📊 Activity</h2>
+## 🚀 Selected projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oustery&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oustery&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</p>
+| Project | What it is |
+| --- | --- |
+| [**GitYou**](https://github.com/oustery/GitYou) | Native, expressive GitHub client for Android, built with Kotlin and Jetpack Compose |
+| [**PocketForge**](https://github.com/oustery/pocketforge) | Open-source Android toolkit combining Flutter UI with native Linux tooling |
 
-<h2 align="center">📫 Reach me</h2>
+## 📊 GitHub activity
 
-<p align="center">
-  <a href="https://github.com/oustery">
-    <img src="https://img.shields.io/badge/GitHub-oustery-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Location-Gomel%2C%20Belarus-2ea44f?style=flat-square" alt="Gomel, Belarus" />
-  <img width="8" />
-  <a href="mailto:dima.jesus70@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dima.jesus70@gmail.com-c5362e?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=oustery&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Oustery's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oustery&layout=compact&hide_border=true&theme=transparent" alt="Oustery's most used languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for stopping by!**
+
+</div>
